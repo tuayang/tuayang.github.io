@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background-color: url("assets/images/oqRNa6.jpg");
 }
 
 #nav {
@@ -34,7 +34,6 @@ h1 {
   padding-bottom: 20px;
   font-size: 30px;
   line-height: 49px;
-  border-bottom: 3px solid #dddddd;
   color: #006bcf;
 }
 
