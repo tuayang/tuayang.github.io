@@ -155,10 +155,10 @@
 }
 
 .bg-img-1 {
-	background-image: url(../img/slider/banner.jpg);
+	background-color: rgb(19, 119, 165);
 }
 .bg-img-2 {
-	background-color: brown;
+	background-color: #71A596;
 }
 .bg-img-3 {
 	background-color: rgb(36, 77, 36);
