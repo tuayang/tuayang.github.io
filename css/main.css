@@ -530,12 +530,12 @@ h1.navbar-brand {
     border: 3px solid #fff;
     border-radius: 50%;
     margin-right: 35px;
-    max-width: 100px;
+    max-width: 150px;
 }
 
 #about .message-body {
-    font-size: 13px;
-    line-height: 20px;
+    font-size: 16px;
+    line-height: 30px;
     margin-bottom: 70px;
 }
 
@@ -558,12 +558,12 @@ h1.navbar-brand {
 .welcome-message img {
     display: block;
     height: auto;
-    max-width: 100px;
+    max-width: 200px;
     float: left;
 }
 
 .welcome-message p {
-    font-size: 13px;
+    font-size: 15px;
     margin-left: 135px;
 }
 
@@ -1202,16 +1202,9 @@ textarea.form-control {
         bottom: -35px;
     }
 
-/* price */
-    .price-table {
-        margin-bottom: 50px;
-    }
 
-/* contact form */
-    .contact-form {
-        margin-bottom: 50px;
-    }
-}
+
+
 
 
 /*============================================================
@@ -1344,10 +1337,6 @@ textarea.form-control {
         width: 65px;
     }
 
-/* contact form */
-    .contact-form {
-        margin-bottom: 50px;
-    }
 
 /* footer */
     .footer-content {
@@ -1389,12 +1378,6 @@ textarea.form-control {
         margin: 0 0 35px;
     }
 
-/* service */
-
-    .service-item {
-        margin: 0 auto 50px;
-        width: 55%;
-    }
 
 /* portfolio */
     .portfolio-item {
@@ -1405,35 +1388,8 @@ textarea.form-control {
         bottom: -132px;
     }
 
-/* testimonial */
-    .testimonial-item {
-        width: 80%;
-    }
 
-    .testimonial-item > div:before {
-        bottom: 160px;
-    }
 
-/* social */
-    .social-button li:nth-child(2) {
-        margin: 0 50px;
-    }
-
-    .social-button li a {
-        height: 90px;
-        line-height: 96px;
-        width: 90px;
-    }
-
-/* price */
-    .price-table {
-        margin-bottom: 50px;
-    }
-
-/* contact form */
-    .contact-form {
-        margin-bottom: 50px;
-    }
 
 /* footer */
     .footer-content {
